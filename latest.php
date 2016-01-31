@@ -74,14 +74,14 @@
                               </div>
 							</div>
 							
-								   <div class="one-third column element view view-third social">
+								  <!--  <div class="one-third column element view view-third social">
 									  <img src="images/gallery/latest/7.png" class="scale-with-grid image-shadow" alt="" />
 									  
 									  <div class="mask">
 											<h3>Latest</h3>
 											<a href="images/gallery/latest/7.png" rel="prettyPhoto[mixed]" title="" class="info"><img src="images/portfolio/photos.png" alt="" /></a> 
 									  </div>
-									</div>
+									</div> -->
 									
 									   <div class="one-third column element view view-third social">
 										  <img src="images/gallery/latest/8.png" class="scale-with-grid image-shadow" alt="" />

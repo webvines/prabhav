@@ -51,7 +51,7 @@ html, body                              { height: 100% }
 #services ul li:hover                   { background-color: #35373b }
 /*------------------------------------------------------------------------- Services Page Ends --*/
 /*------------------------------------------------------------------------- Portfolio Starts --*/
-#portfolio                              { padding-bottom: 60px; height: 100%; }
+#portfolio                              { padding-bottom: 60px; /*height: 100%;*/ }
 #options                                { margin-bottom: 30px; font-family: 'Oswald', sans-serif; font-size: 18px; line-height: normal; }
 #options ul                             { margin: 0px; padding: 0px; }
 #options li                             { display: inline-block; color: #FFF; text-decoration: none; }

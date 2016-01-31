@@ -32,7 +32,7 @@
      
             
       <!-- Gallery Page Starts -->
-      <div id="portfolio" class="dark-texture-3">
+      <div id="portfolio" class="dark-texture-3" style="height: 100%;">
             <div class="page-header">
                   <div class="container">
                         <div class="sixteen columns">

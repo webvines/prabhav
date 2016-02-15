@@ -56,9 +56,9 @@
 											Krida Bharati Competition
 											<span style="margin-left: -30px; display: block;">
 												<ul>
-													<li>- 1st price Zeap Training Academy</li>
-													<li>- 2nd price Prabhav Training Academy</li>
-													<li>- 3rd price Purandare Training Academy</li>
+													<li>- 1st Zeap Training Academy</li>
+													<li>- 2nd Prabhav Training Academy</li>
+													<li>- 3rd Purandare Training Academy</li>
 												</ul>
 											</span>
 											
@@ -74,7 +74,7 @@
 												Somaiya Drill Competition
 												<span style="margin-left: -30px; display: block;">
 													<ul>
-														<li>- 1st price Purandare Training Academy</li>
+														<li>- 1st Purandare Training Academy</li>
 													</ul>
 												</span>
 												

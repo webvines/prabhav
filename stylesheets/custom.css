@@ -1032,7 +1032,7 @@ a.thumbnail.active {
 @media (min-width: 601px) and (max-width: 768px){
 
 
-  #notification{
+  #notification, #notification-achieve{
 
     display: none;
 
@@ -1068,6 +1068,12 @@ a.thumbnail.active {
       width: 260px !important;
       height: 260px !important;
       padding-top: 20px;
+
+  }
+
+  #notification-achieve{
+
+    display: none;
 
   }
 
